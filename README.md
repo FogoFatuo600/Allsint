@@ -10,6 +10,6 @@ Allsint fetches data for these commands:
 - number      Search by numbers
 - img         Search by Image
 ```
-If you want to know more details of the [commands](https://github.com/F/ALLSINT/blob/main/doc/COMMANDS.md).
+If you want to know more details of the [commands]([https://github.com/FogoFatuo600/Allsint/blob/main/doc/COMMANDS.md).
 # Installation #
 # External library #
